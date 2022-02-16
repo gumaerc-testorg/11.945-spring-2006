@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-945-katrina-practicum-spring-2006/745c4fe9f6a2ea0968057278e06c1e45_contextmap.pdf
+file: /media/courses/11-945-katrina-practicum-spring-2006/745c4fe9f6a2ea0968057278e06c1e45_contextmap.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: contextmap.pdf
 uid: 745c4fe9-f6a2-ea09-6805-7278e06c1e45
