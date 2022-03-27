@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cab2ee9b-e0bc-7315-dbde-f065a27dcb08
 resourcetype: Document
 title: notrip_assn.pdf
 uid: fc95a169-483e-1bf7-4d12-0d61cf4afed8

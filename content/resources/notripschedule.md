@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 784c2ef3-05e7-8850-b986-19f33ca83396
 resourcetype: Document
 title: notripschedule.pdf
 uid: 6e720f5b-282e-5b1b-be06-2ac533a5297b
