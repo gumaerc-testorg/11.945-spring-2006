@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the lecture notes listed as per the topics covered
+  in the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -43,9 +45,9 @@ Work Session: Background Research
 3
 {{< tdclose >}}
 {{< tdopen >}}
-New Orleans Context ([PDF]({{< baseurl >}}/resources/sess3))  
+New Orleans Context ({{% resource_link a22c7769-6946-5acc-8f6e-e6b0fba15d8f "PDF" %}})  
   
-Tremé Context Map ([PDF]({{< baseurl >}}/resources/contextmap))
+Tremé Context Map ({{% resource_link 745c4fe9-f6a2-ea09-6805-7278e06c1e45 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +65,7 @@ Work Session: Background Research
 5
 {{< tdclose >}}
 {{< tdopen >}}
-New Orleans Environmental History/Context ([PDF]({{< baseurl >}}/resources/sess5))  
+New Orleans Environmental History/Context ({{% resource_link af8d12f3-ef17-5a57-e748-8bd1feb214ca "PDF" %}})  
   
 Guest Lecturer: Dan Etheridge
 {{< tdclose >}}
@@ -74,7 +76,7 @@ Guest Lecturer: Dan Etheridge
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Data Report-back ([PDF]({{< baseurl >}}/resources/sess6))  
+Data Report-back ({{% resource_link 6313c5a2-d9ef-dc1d-1685-89c2bf45beca "PDF" %}})  
   
 Demographics Group Presentation
 {{< tdclose >}}
@@ -87,7 +89,7 @@ Demographics Group Presentation
 {{< tdopen >}}
 Work Session  
   
-Housing and Environmental Group Presentations ([PDF]({{< baseurl >}}/resources/sess7))
+Housing and Environmental Group Presentations ({{% resource_link a145e010-d9b9-1ded-ddcb-3a6573846029 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +100,7 @@ Housing and Environmental Group Presentations ([PDF]({{< baseurl >}}/resources/s
 {{< tdopen >}}
 Survey Development  
   
-Environmental Group Presentation (cont.) ([PDF]({{< baseurl >}}/resources/sess8a))
+Environmental Group Presentation (cont.) ({{% resource_link a42efb13-cbb8-f59d-998e-d25c5084c7d8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,7 +109,7 @@ Environmental Group Presentation (cont.) ([PDF]({{< baseurl >}}/resources/sess8a
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Work Session ([PDF]({{< baseurl >}}/resources/sess9))
+Work Session ({{% resource_link 28f0c474-a86a-6247-2224-3d632885c573 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +118,7 @@ Work Session ([PDF]({{< baseurl >}}/resources/sess9))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Housing Group Presentation (cont.) ([PDF]({{< baseurl >}}/resources/sess10))
+Housing Group Presentation (cont.) ({{% resource_link 4226c0a8-216f-da75-a4b7-481033a13bcb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +154,7 @@ Work Session: Trip Presentation (cont.)
  
 {{< tdclose >}}
 {{< tdopen >}}
-Site Visit (8 Day Trip) ([PDF]({{< baseurl >}}/resources/notripschedule-1))
+Site Visit (8 Day Trip) ({{% resource_link dbbcb51d-5cbe-addb-315e-0369ee567440 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -181,7 +183,7 @@ Work Session
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Update on Student Projects ([PDF]({{< baseurl >}}/resources/sess17))
+Update on Student Projects ({{% resource_link 01653e2b-2daf-eb74-5d1a-237c2c1bf915 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information about the assignments related to this
+  course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -35,4 +37,4 @@ Tremé Observation Assignment
 
 Due Day 4 of New Orleans Site Visit
 
-This assignment is adapted from similar assignments developed by Susan Silberberg for 11.945 Spring 2004, The Springfield Studio. It is intended as an exercise to help students closely observe the neighborhood for clues about the neighborhood's image, transportation, commercial activity, architecture/urban design, and physical/environmental conditions. ([PDF]({{< baseurl >}}/resources/notrip_assn))
+This assignment is adapted from similar assignments developed by Susan Silberberg for 11.945 Spring 2004, The Springfield Studio. It is intended as an exercise to help students closely observe the neighborhood for clues about the neighborhood's image, transportation, commercial activity, architecture/urban design, and physical/environmental conditions. ({{% resource_link fc95a169-483e-1bf7-4d12-0d61cf4afed8 "PDF" %}})
