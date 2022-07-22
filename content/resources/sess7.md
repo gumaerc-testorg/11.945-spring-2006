@@ -7,6 +7,7 @@ file: /courses/11-945-katrina-practicum-spring-2006/a145e010d9b91dedddcb3a657384
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: sess7.pdf
 uid: a145e010-d9b9-1ded-ddcb-3a6573846029
 ---
 This resource contains information on student presentations on housing options and includes topics such as transitional housing, community land trusts, rental housing, limited equity co-ops and home ownership.
-
