@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Gallery
+parent_type: CourseSection
 parent_uid: 0214c26d-b93f-b494-d085-cf032f003bf5
 title: "Trem\xE9 Images"
 uid: fbe8adfd-dab3-7abe-bfe6-e4b0a45cba40
 ---
 
-{{< image-gallery id="fbe8adfd-dab3-7abe-bfe6-e4b0a45cba40_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/11-945-katrina-practicum-spring-2006/" >}}
+{{< image-gallery id="fbe8adfd-dab3-7abe-bfe6-e4b0a45cba40_nanogallery2" baseUrl="/courses/11-945-katrina-practicum-spring-2006/" >}}
 {{< image-gallery-item href="2a1d549676692bb5a5df842f945e3dd2_IMG_0005.jpg" data-ngdesc="This house in the Tremé, one of New Orleans oldest African American communities, is the headquarters of Ujaama the community partner working with the class." text="This house in the Tremé, one of New Orleans oldest African American communities, is the headquarters of Ujaama the community partner working with the class." >}}
 {{< image-gallery-item href="3e54c05987fda14741b58022917af5bb_IMG_0006.jpg" data-ngdesc="Ujaama is affliated with the St. Peter Clavier Catholic Church, and it has a large shrine in its yard." text="Ujaama is affliated with the St. Peter Clavier Catholic Church, and it has a large shrine in its yard." >}}
 {{< image-gallery-item href="c91a12ea0a15d122ee726aa5f65a6ba1_IMG_0007.jpg" data-ngdesc="Ujaama would like to convert the abandoned building across from its headquarters into a neighborhood school." text="Ujaama would like to convert the abandoned building across from its headquarters into a neighborhood school." >}}

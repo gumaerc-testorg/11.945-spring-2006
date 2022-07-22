@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains information on the course schedule.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 784c2ef3-05e7-8850-b986-19f33ca83396
 ---
@@ -191,7 +194,7 @@ Work Session: Trip Presentation (cont.)
  
 {{< tdclose >}}
 {{< tdopen >}}
-Site Visit (8 Day Trip) ([PDF]({{< baseurl >}}/resources/notripschedule))
+Site Visit (8 Day Trip) ({{% resource_link 6e720f5b-282e-5b1b-be06-2ac533a5297b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Observation assignment due day 4
