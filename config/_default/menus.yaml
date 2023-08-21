@@ -23,3 +23,18 @@ leftnav:
   name: Image Gallery
   url: /pages/image-gallery/
   weight: 60
+- identifier: 34813acf-eceb-18ad-c8f6-8484d9a7d88f
+  name: New Orleans Images
+  parent: 0214c26d-b93f-b494-d085-cf032f003bf5
+  url: /pages/image-gallery/new-orleans-images
+  weight: 10
+- identifier: eaba43ea-3593-07a4-ef7e-8eddb84d8ff6
+  name: The Environment Images
+  parent: 0214c26d-b93f-b494-d085-cf032f003bf5
+  url: /pages/image-gallery/the-environment-images
+  weight: 20
+- identifier: fbe8adfd-dab3-7abe-bfe6-e4b0a45cba40
+  name: "Trem\xE9 Images"
+  parent: 0214c26d-b93f-b494-d085-cf032f003bf5
+  url: /pages/image-gallery/treme-images
+  weight: 30
